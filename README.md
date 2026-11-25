@@ -4,7 +4,7 @@ A lightweight Zsh or bash function that works like macOS Spotlight, but for your
 
 ## Installation
 
-Add the code to your `~/.zshrc` or `~/.bashrc`:
+Add the code to your `~/.zshrc` or `~/.bashrc`. You cannot save this script as an executable file because it contains the cd command, which only affects the current process (and not the parent shell).
 
 ## Usage
 
